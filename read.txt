@@ -1,0 +1,2 @@
+npm install bootstrap --save
+npm install bootstraptable --save
